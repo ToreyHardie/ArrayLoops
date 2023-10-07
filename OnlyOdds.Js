@@ -14,4 +14,4 @@ OnlyOdds.forEach((number) => { //utilze forEach
     Oddnum.push(number); //if the condition is true print into the array 'Odd num'
   }
 });
-console.log(Oddnum); 
+console.log(Oddnum); Í
